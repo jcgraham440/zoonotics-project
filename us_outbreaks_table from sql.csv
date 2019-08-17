@@ -1,0 +1,318 @@
+id_,year,month,state,mode,etiology,animal_type
+46024,2009,1,Ohio,Animal Contact,Cryptosporidium unknown,Cattle
+46025,2009,3,Montana,Animal Contact,Cryptosporidium unknown,Sheep or goats
+46026,2009,4,Ohio,Animal Contact,Salmonella enterica,Pet fish
+46027,2009,5,Ohio,Animal Contact,Cryptosporidium unknown,Cattle
+46028,2009,5,Iowa,Animal Contact,Cryptosporidium unknown,Sheep or goats
+46029,2009,5,Ohio,Animal Contact,Cryptosporidium unknown,Sheep or goats
+46030,2009,3,Oregon,Animal Contact,Salmonella enterica,Baby chick or duckling
+46031,2009,5,Idaho,Animal Contact,Campylobacter jejuni,Cat or kitten
+46032,2009,8,Minnesota,Animal Contact,Cryptosporidium parvum,Cattle
+46033,2009,6,Virginia,Animal Contact,Salmonella enterica,Turtle
+46034,2009,2,Wyoming,Animal Contact,Salmonella enterica,"Lizard; Turtle; Bird, not including poultry; Other reptile"
+46035,2009,8,Minnesota,Animal Contact,"Escherichia coli, Shiga toxin-producing",Cattle
+46036,2009,6,Oregon,Animal Contact,Salmonella enterica,Other reptile; Other small mammalian household pet
+46037,2009,6,Oregon,Animal Contact,Salmonella enterica,Baby chick or duckling
+46038,2009,9,Pennsylvania,Animal Contact,Campylobacter jejuni,Cattle
+46039,2009,1,Colorado,Animal Contact,"Escherichia coli, Shiga toxin-producing",Cattle
+46040,2009,3,Colorado,Animal Contact,Salmonella enterica,Baby chick or duckling
+46041,2010,1,Maine,Animal Contact,Cryptosporidium,Sheep or goats; Sheep or goats; Dog or Puppy; Other poultry; Pig; Other (specify)
+46042,2010,2,New Hampshire,Animal Contact,Campylobacter unknown; Giardia duodenalis,Cattle
+46043,2010,3,Ohio,Animal Contact,Cryptosporidium unknown,Cattle
+46044,2010,4,Minnesota,Animal Contact,Cryptosporidium parvum,Cattle
+46045,2009,3,Wyoming,Animal Contact,Salmonella enterica,Other small mammalian household pet; Other small mammalian household pet; Cat or kitten; Dog or Puppy; Amphibian
+46046,2010,4,Missouri,Animal Contact,Salmonella enterica,Pet fish
+46047,2010,8,Wisconsin,Animal Contact,"Escherichia coli, Shiga toxin-producing",Cattle; Sheep or goats
+46048,2010,2,Washington,Animal Contact,Salmonella enterica,Baby chick or duckling
+46049,2010,8,Minnesota,Animal Contact,Campylobacter jejuni,Other poultry
+46050,2010,10,Oklahoma,Animal Contact,"Escherichia coli, Shiga toxin-producing",Sheep or goats; Sheep or goats; Sheep or goats
+46051,2010,11,South Dakota,Animal Contact,Salmonella enterica,Other poultry
+46052,2009,2,Multistate,Animal Contact,Salmonella enterica,Baby chick or duckling
+46053,2009,5,Multistate,Animal Contact,Salmonella enterica,Baby chick or duckling
+46054,2009,9,Multistate,Animal Contact,Salmonella enterica,Turtle
+46055,2009,3,Multistate,Animal Contact,Salmonella enterica,Baby chick or duckling
+46056,2009,4,Multistate,Animal Contact,Salmonella enterica,Amphibian
+46057,2009,12,Multistate,Animal Contact,Salmonella enterica,Lizard; Other (specify)
+46058,2011,4,Iowa,Animal Contact,Cryptosporidium,Sheep or goats
+46059,2010,4,Colorado,Animal Contact,"Escherichia coli, Shiga toxin-producing",Cattle
+46060,2010,3,Colorado,Animal Contact,Giardia duodenalis,Lizard
+46061,2011,6,Wyoming,Animal Contact,Campylobacter jejuni,Sheep or goats
+46062,2011,6,Washington,Animal Contact,"Escherichia coli, Shiga toxin-producing",Cattle
+46063,2011,6,Alaska,Animal Contact,Salmonella enterica,Turtle
+46064,2011,5,Wyoming,Animal Contact,Campylobacter unknown,Cattle; Cattle; Other (specify); Dog or Puppy; Sheep or goats; Other poultry
+46065,2011,8,Minnesota,Animal Contact,"Escherichia coli, Shiga toxin-producing",Sheep or goats
+46066,2011,5,North Carolina,Animal Contact,Cryptosporidium parvum,Cattle
+46067,2009,12,North Carolina,Animal Contact,Salmonella enterica,Other small mammalian household pet
+46068,2011,8,Michigan,Animal Contact,"Escherichia coli, Shiga toxin-producing",Other small mammalian household pet; Other poultry; Baby chick or duckling; Dog or Puppy; Cattle; Sheep or goats; Sheep or goats; Other (specify); Other small mammalian household pet
+46069,2011,9,Virginia,Animal Contact,Salmonella enterica,Amphibian
+46070,2011,9,Ohio,Animal Contact,Salmonella enterica,Pet fish
+46071,2011,10,Oregon,Animal Contact,Cryptosporidium,Cattle
+46072,2011,4,Colorado,Animal Contact,Cryptosporidium unknown,Sheep or goats
+46073,2011,12,Pennsylvania,Animal Contact,Salmonella enterica,Turtle
+46074,2010,2,Multistate,Animal Contact,Salmonella enterica,Baby chick or duckling
+46075,2012,1,Ohio,Animal Contact,Campylobacter unknown,Dog or Puppy
+46076,2010,2,Multistate,Animal Contact,Salmonella enterica,Baby chick or duckling
+46077,2011,4,Illinois,Animal Contact,Cryptosporidium unknown,Cattle
+46078,2010,2,Multistate,Animal Contact,Salmonella enterica,Baby chick or duckling
+46079,2010,8,Multistate,Animal Contact,Salmonella enterica,Turtle
+46080,2010,5,Multistate,Animal Contact,Salmonella enterica,Other small mammalian household pet
+46081,2012,2,Ohio,Animal Contact,Cryptosporidium unknown,Cattle
+46082,2011,10,North Carolina,Animal Contact,"Escherichia coli, Shiga toxin-producing",Other (specify)
+46083,2011,4,Kentucky,Animal Contact,Salmonella enterica,Other poultry
+46084,2012,4,Minnesota,Animal Contact,Cryptosporidium parvum,Cattle
+46085,2012,4,Pennsylvania,Animal Contact,Salmonella enterica,Turtle
+46086,2012,5,Ohio,Animal Contact,Campylobacter unknown,Other poultry
+46087,2012,2,Illinois,Animal Contact,Cryptosporidium unknown,Cattle
+46088,2012,4,Oregon,Animal Contact,Salmonella enterica,Baby chick or duckling
+46089,2012,5,North Carolina,Animal Contact,Campylobacter jejuni,Other (specify); Other (specify)
+46090,2012,7,Minnesota,Animal Contact,"Escherichia coli, Shiga toxin-producing; Cryptosporidium parvum",Cattle
+46091,2012,7,Tennessee,Animal Contact,Cryptosporidium parvum,Cattle
+46092,2012,7,Minnesota,Animal Contact,"Escherichia coli, Shiga toxin-producing",Cattle; Sheep or goats
+46093,2012,8,Minnesota,Animal Contact,Campylobacter jejuni,Other poultry
+46094,2011,2,Multistate,Animal Contact,Salmonella enterica; Salmonella enterica,Baby chick or duckling; Baby chick or duckling
+46095,2010,3,Multistate,Animal Contact,Salmonella enterica,Turtle
+46096,2012,6,Oregon,Animal Contact,"Escherichia coli, Shiga toxin-producing; Escherichia coli, Shiga toxin-producing",Sheep or goats
+46097,2011,4,Multistate,Animal Contact,Salmonella enterica,Baby chick or duckling
+46098,2011,3,Multistate,Animal Contact,Salmonella enterica,Baby chick or duckling
+46099,2011,3,Multistate,Animal Contact,Salmonella enterica,Baby chick or duckling
+46100,2012,8,Wyoming,Animal Contact,"Escherichia coli, Shiga toxin-producing",Cattle; Sheep or goats; Pig; Other small mammalian household pet
+46101,2012,7,Wyoming,Animal Contact,Salmonella enterica,Pig; Dog or Puppy; Cattle; Other (specify); Sheep or goats
+46102,2012,8,Wyoming,Animal Contact,Salmonella enterica,Sheep or goats; Sheep or goats; Pig
+46103,2012,6,Virginia,Animal Contact,Salmonella enterica; Salmonella enterica,"Bird, not including poultry"
+46104,2012,5,Alaska,Animal Contact,Campylobacter jejuni,Baby chick or duckling; Other poultry
+46105,2012,5,Utah,Animal Contact,Campylobacter jejuni,"Bird, not including poultry"
+46106,2012,5,Utah,Animal Contact,Salmonella enterica,Other reptile
+46107,2011,3,Multistate,Animal Contact,Salmonella enterica,Baby chick or duckling
+46108,2012,9,Oregon,Animal Contact,Campylobacter jejuni,Dog or Puppy
+46109,2012,2,Kentucky,Animal Contact,Salmonella enterica,Turtle
+46110,2011,8,Multistate,Animal Contact,Salmonella enterica,Other (specify)
+46111,2012,8,Utah,Animal Contact,"Escherichia coli, Shiga toxin-producing",Sheep or goats
+46112,2012,11,Minnesota,Animal Contact,Cryptosporidium,Cattle
+46113,2012,10,Washington,Animal Contact,"Escherichia coli, Shiga toxin-producing; Escherichia coli, Shiga toxin-producing",Other (specify); Cattle; Sheep or goats; Other poultry
+46114,2009,6,North Carolina,Animal Contact,Cryptosporidium parvum,Cattle
+46115,2012,4,Illinois,Animal Contact,Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica,Turtle
+46116,2013,3,South Dakota,Animal Contact,Cryptosporidium unknown,Other poultry; Baby chick or duckling; Sheep or goats; Sheep or goats; Other (specify); Other (specify); Other (specify); Sheep or goats; Sheep or goats; Cattle; Cattle; Pig; Other small mammalian household pet
+46117,2013,3,Wyoming,Animal Contact,Campylobacter jejuni,Cattle; Cattle; Other (specify); Other (specify)
+46118,2012,2,Multistate,Animal Contact,Salmonella enterica,Baby chick or duckling
+46119,2012,7,Multistate,Animal Contact,Salmonella enterica,Other poultry
+46120,2013,3,Kansas,Animal Contact,Cryptosporidium unknown,Cattle
+46121,2011,10,Multistate,Animal Contact,Salmonella enterica,Dog or Puppy
+46122,2012,4,Multistate,Animal Contact,Salmonella enterica,Other poultry
+46123,2012,3,Multistate,Animal Contact,Salmonella enterica,Other poultry
+46124,2012,3,Multistate,Animal Contact,Salmonella enterica,Baby chick or duckling
+46125,2012,2,Multistate,Animal Contact,Salmonella enterica,Other poultry
+46126,2012,3,Multistate,Animal Contact,Salmonella enterica; Salmonella enterica; Salmonella enterica,Other poultry; Baby chick or duckling
+46127,2012,2,Multistate,Animal Contact,Salmonella enterica,Other poultry
+46128,2013,3,Montana,Animal Contact,Campylobacter other,Dog or Puppy
+46129,2013,4,Montana,Animal Contact,Campylobacter coli,Cattle
+46130,2013,5,Ohio,Animal Contact,Campylobacter jejuni,Dog or Puppy
+46131,2013,6,Minnesota,Animal Contact,Cryptosporidium parvum,Cattle; Sheep or goats
+46132,2013,4,Iowa,Animal Contact,Salmonella enterica,Baby chick or duckling
+46133,2013,8,Minnesota,Animal Contact,Cryptosporidium parvum,Cattle
+46134,2013,8,Pennsylvania,Animal Contact,Campylobacter,Cattle
+46135,2013,6,Minnesota,Animal Contact,Campylobacter jejuni,Other (specify)
+46136,2013,9,Iowa,Animal Contact,Cryptosporidium,Cattle
+46137,2012,7,Multistate,Animal Contact,Salmonella enterica,Other small mammalian household pet
+46138,2013,10,Ohio,Animal Contact,Salmonella enterica; Campylobacter,Dog or Puppy
+46139,2011,12,Multistate,Animal Contact,Salmonella enterica,Other small mammalian household pet
+46140,2011,8,Multistate,Animal Contact,Salmonella enterica; Salmonella enterica,Turtle
+46141,2011,10,Multistate,Animal Contact,Salmonella enterica; Salmonella enterica,Turtle
+46142,2012,2,Multistate,Animal Contact,Salmonella enterica,Turtle
+46143,2011,5,Multistate,Animal Contact,Salmonella enterica,Turtle
+46144,2012,4,Multistate,Animal Contact,Salmonella enterica,Turtle
+46145,2011,12,Multistate,Animal Contact,Salmonella enterica,Turtle
+46146,2012,6,Multistate,Animal Contact,Salmonella enterica,Turtle
+46147,2011,9,Multistate,Animal Contact,Salmonella enterica,Turtle
+46148,2013,10,Minnesota,Animal Contact,"Escherichia coli, Shiga toxin-producing",Cattle
+46149,2013,10,Minnesota,Animal Contact,"Escherichia coli, Shiga toxin-producing",Sheep or goats
+46150,2013,6,New Hampshire,Animal Contact,Salmonella enterica,Dog or Puppy
+46151,2013,6,Michigan,Animal Contact,Salmonella enterica,Baby chick or duckling; Other poultry; Sheep or goats; Pig; Other (specify); Other small mammalian household pet
+46152,2013,10,Michigan,Animal Contact,"Escherichia coli, Shiga toxin-producing",Sheep or goats; Cattle; Other (specify); Pig; Other poultry; Other small mammalian household pet; Cat or kitten; Other poultry; Other poultry
+46153,2013,8,Alaska,Animal Contact,Campylobacter jejuni,Other poultry
+46154,2013,7,Colorado,Animal Contact,Cryptosporidium,Cattle
+46155,2013,3,Multistate,Animal Contact,Salmonella enterica,Other poultry
+46156,2013,9,Kentucky,Animal Contact,"Escherichia coli, Shiga toxin-producing",Cattle; Other poultry; Other (specify); Sheep or goats; Other (specify); Other small mammalian household pet; Cattle
+46157,2014,1,Ohio,Animal Contact,Cryptosporidium unknown,Cattle
+46158,2013,6,Missouri,Animal Contact,"Escherichia coli, Shiga toxin-producing",Sheep or goats
+46159,2013,3,Multistate,Animal Contact,Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica,Baby chick or duckling
+46160,2013,2,Virginia,Animal Contact,"Streptococcus Group B, C or G",Other small mammalian household pet
+46161,2013,10,Maryland,Animal Contact,Campylobacter coli,Cattle
+46162,2013,12,Ohio,Animal Contact,Salmonella enterica,Turtle
+46163,2014,2,Utah,Animal Contact,Campylobacter other; Campylobacter coli,Sheep or goats
+46164,2013,3,Multistate,Animal Contact,Salmonella enterica,Baby chick or duckling
+46165,2012,7,Idaho,Animal Contact,Salmonella enterica,Lizard
+46166,2013,2,Multistate,Animal Contact,Salmonella enterica,Baby chick or duckling
+46167,2013,12,Colorado,Animal Contact,Salmonella enterica,Other small mammalian household pet; Other small mammalian household pet
+46168,2014,5,Pennsylvania,Animal Contact,Campylobacter unknown,Other poultry
+46169,2014,5,Kansas,Animal Contact,"Escherichia coli, Shiga toxin-producing",Cattle
+46170,2014,5,Kansas,Animal Contact,"Escherichia coli, Shiga toxin-producing",Cattle
+46171,2014,6,Ohio,Animal Contact,"Campylobacter; Salmonella enterica; Escherichia coli, Shiga toxin-producing",Cattle
+46172,2014,6,Kansas,Animal Contact,Campylobacter lari; Campylobacter jejuni,Cattle
+46173,2014,7,Minnesota,Animal Contact,"Escherichia coli, Shiga toxin-producing",Sheep or goats
+46174,2014,5,Minnesota,Animal Contact,Salmonella enterica,Other small mammalian household pet
+46175,2014,4,Iowa,Animal Contact,Salmonella enterica,Sheep or goats; Cattle; Other (specify); Other (specify); Other reptile; Pet fish
+46176,2014,6,Utah,Animal Contact,Salmonella enterica,Pig
+46177,2014,3,Utah,Animal Contact,Salmonella enterica,Baby chick or duckling
+46178,2014,7,Minnesota,Animal Contact,Cryptosporidium parvum,Cattle
+46179,2014,8,Minnesota,Animal Contact,Cryptosporidium parvum,Cattle
+46180,2013,12,Kentucky,Animal Contact,Salmonella enterica,Lizard
+46181,2014,8,Colorado,Animal Contact,Cryptosporidium unknown,Cattle
+46182,2012,2,Multistate,Animal Contact,Salmonella enterica; Salmonella enterica,Lizard
+46183,2014,7,Colorado,Animal Contact,Cryptosporidium parvum,Cattle
+46184,2014,1,Multistate,Animal Contact,Salmonella enterica,Other (specify)
+46185,2014,7,Tennessee,Animal Contact,Cryptosporidium,Cattle
+46186,2014,9,Ohio,Animal Contact,Salmonella enterica,Pig
+46187,2014,2,Multistate,Animal Contact,Salmonella enterica; Salmonella enterica; Salmonella enterica,Other poultry
+46188,2014,7,Minnesota,Animal Contact,Salmonella enterica,Other poultry
+46189,2014,10,Minnesota,Animal Contact,Cryptosporidium parvum,Cattle
+46190,2012,12,Multistate,Animal Contact,Salmonella enterica,Other small mammalian household pet
+46191,2014,4,Multistate,Animal Contact,Salmonella enterica,Turtle
+46192,2014,7,Multistate,Animal Contact,Salmonella enterica,Baby chick or duckling
+46193,2014,10,Ohio,Animal Contact,Salmonella enterica,Other reptile
+46194,2014,6,Ohio,Animal Contact,Campylobacter unknown,Dog or Puppy
+46195,2014,12,Louisiana,Animal Contact,Cryptosporidium unknown,Cattle
+46196,2014,3,Multistate,Animal Contact,Salmonella enterica,Baby chick or duckling
+46197,2014,4,New Hampshire,Animal Contact,Salmonella enterica,Baby chick or duckling
+46198,2014,12,Ohio,Animal Contact,Salmonella enterica,Other small mammalian household pet
+46199,2014,3,Colorado,Animal Contact,Salmonella enterica,Other poultry
+46200,2014,6,Michigan,Animal Contact,Salmonella enterica,Turtle
+46201,2014,5,Indiana,Animal Contact,"Escherichia coli, Shiga toxin-producing",Pig
+46202,2014,8,Colorado,Animal Contact,Salmonella enterica,Other poultry
+46203,2014,10,Arkansas,Animal Contact,Cryptosporidium unknown,Cattle
+46204,2014,5,Wisconsin,Animal Contact,Salmonella enterica,Baby chick or duckling
+46205,2014,6,New Hampshire,Animal Contact,Campylobacter jejuni,Other poultry
+46206,2015,3,Ohio,Animal Contact,Salmonella enterica,Cattle
+46207,2015,1,Illinois,Animal Contact,Cryptosporidium,Cattle
+46208,2014,9,Arizona,Animal Contact,Salmonella enterica,Other (specify); Cattle; Pig; Sheep or goats; Other (specify)
+46209,2015,3,Michigan,Animal Contact,Cryptosporidium unknown,Cattle
+46210,2015,3,Ohio,Animal Contact,Cryptosporidium unknown,Cattle
+46211,2015,4,Minnesota,Animal Contact,Cryptosporidium parvum,Cattle
+46212,2015,3,Colorado,Animal Contact,Salmonella enterica,Lizard
+46213,2014,3,Oklahoma,Animal Contact,"Escherichia coli, Shiga toxin-producing",Other (specify)
+46214,2015,4,South Carolina,Animal Contact,Salmonella enterica,Baby chick or duckling
+46215,2015,4,Wyoming,Animal Contact,"Escherichia coli, Enterotoxigenic; Cryptosporidium unknown; Campylobacter jejuni",Cattle
+46216,2014,1,Multistate,Animal Contact,Salmonella enterica,Other reptile
+46217,2015,6,Virginia,Animal Contact,Cryptosporidium parvum; Cryptosporidium,Cattle
+46218,2015,6,Colorado,Animal Contact,Campylobacter; Campylobacter jejuni,Dog or Puppy
+46219,2015,8,Minnesota,Animal Contact,"Escherichia coli, Shiga toxin-producing",Cattle
+46220,2015,3,Utah,Animal Contact,Cryptosporidium,Cattle
+46221,2015,8,Minnesota,Animal Contact,"Escherichia coli, Shiga toxin-producing",Other (specify); Pig; Sheep or goats; Other small mammalian household pet; Cattle
+46222,2015,8,Ohio,Animal Contact,Campylobacter unknown,Dog or Puppy
+46223,2015,9,Ohio,Animal Contact,Cryptosporidium unknown,Cattle
+46224,2015,9,Minnesota,Animal Contact,Cryptosporidium unknown; Cryptosporidium parvum; Cryptosporidium parvum; Cryptosporidium other,Cattle
+46225,2015,1,Multistate,Animal Contact,Salmonella enterica,Baby chick or duckling
+46226,2015,2,Multistate,Animal Contact,Salmonella enterica; Salmonella enterica,Baby chick or duckling
+46227,2015,2,Multistate,Animal Contact,Salmonella enterica,Baby chick or duckling
+46228,2015,1,Multistate,Animal Contact,Salmonella enterica,Baby chick or duckling
+46229,2015,7,Ohio,Animal Contact,Campylobacter unknown,Cat or kitten
+46230,2015,11,Virginia,Animal Contact,Cryptosporidium parvum,Cattle
+46231,2015,10,Tennessee,Animal Contact,"Escherichia coli, Shiga toxin-producing",Cattle; Other poultry; Other poultry; Sheep or goats; Pig; Other small mammalian household pet; Sheep or goats
+46232,2015,12,Ohio,Animal Contact,Cryptosporidium unknown,Cattle
+46233,2015,11,Minnesota,Animal Contact,Cryptosporidium parvum,Cattle
+46234,2015,11,Ohio,Animal Contact,Cryptosporidium unknown,Cattle
+46235,2015,12,South Carolina,Animal Contact,Campylobacter unknown,Other poultry
+46236,2015,1,Colorado,Animal Contact,Salmonella enterica,Turtle
+46237,2015,1,Multistate,Animal Contact,Salmonella enterica,Turtle
+46238,2015,4,Washington,Animal Contact,"Escherichia coli, Shiga toxin-producing",Cattle
+46239,2016,1,Montana,Animal Contact,Campylobacter jejuni,Dog or Puppy
+46240,2016,2,Michigan,Animal Contact,Salmonella enterica,Other small mammalian household pet
+46241,2016,2,Utah,Animal Contact,Cryptosporidium parvum,Cattle
+46242,2016,3,South Carolina,Animal Contact,"Escherichia coli, Shiga toxin-producing; Cryptosporidium unknown",Cattle
+46243,2015,5,Illinois,Animal Contact,Cryptosporidium,Cattle
+46244,2016,3,Ohio,Animal Contact,Cryptosporidium unknown,Cattle
+46245,2016,4,Ohio,Animal Contact,Cryptosporidium unknown,Cattle
+46246,2016,4,Ohio,Animal Contact,Campylobacter unknown,Baby chick or duckling; Baby chick or duckling
+46247,2016,3,Connecticut,Animal Contact,"Escherichia coli, Shiga toxin-producing; Escherichia coli, Shiga toxin-producing",Sheep or goats
+46248,2016,4,Ohio,Animal Contact,Salmonella enterica,Other small mammalian household pet
+46249,2016,4,Arizona,Animal Contact,Salmonella enterica; Salmonella,Other (specify)
+46250,2016,5,Minnesota,Animal Contact,Cryptosporidium parvum,Cattle
+46251,2016,5,Minnesota,Animal Contact,"Escherichia coli, Shiga toxin-producing",Cattle
+46252,2015,2,Multistate,Animal Contact,Salmonella enterica,Turtle
+46253,2015,2,Multistate,Animal Contact,Salmonella enterica,Turtle
+46254,2016,6,South Dakota,Animal Contact,Campylobacter coli,Cattle
+46255,2016,6,Ohio,Animal Contact,Campylobacter,Other poultry
+46256,2016,4,Multistate,Animal Contact,Campylobacter coli,Baby chick or duckling
+46257,2016,7,Ohio,Animal Contact,"Escherichia coli, Shiga toxin-producing",Sheep or goats
+46258,2016,8,Oregon,Animal Contact,"Escherichia coli, Shiga toxin-producing",Other (specify)
+46259,2016,2,Utah,Animal Contact,Salmonella enterica,Other poultry
+46260,2016,4,Pennsylvania,Animal Contact,Campylobacter jejuni,Dog or Puppy
+46261,2016,7,Minnesota,Animal Contact,Salmonella enterica,Other reptile; Baby chick or duckling
+46262,2016,9,Iowa,Animal Contact,Salmonella enterica; Salmonella enterica; Salmonella enterica,Other (specify)
+46263,2015,5,Vermont,Animal Contact,Salmonella enterica,Baby chick or duckling
+46264,2015,5,Vermont,Animal Contact,Salmonella enterica,Baby chick or duckling
+46265,2016,2,Wisconsin,Animal Contact,Cryptosporidium parvum,Sheep or goats
+46266,2016,3,Multistate,Animal Contact,Salmonella enterica,Other poultry
+46267,2016,3,Multistate,Animal Contact,Salmonella enterica,Other poultry
+46268,2016,2,Multistate,Animal Contact,Salmonella enterica,Other poultry
+46269,2016,3,Multistate,Animal Contact,Salmonella enterica,Other poultry
+46270,2016,1,Multistate,Animal Contact,Salmonella enterica,Other poultry
+46271,2016,3,Multistate,Animal Contact,Salmonella enterica,Other poultry
+46272,2016,3,Multistate,Animal Contact,Salmonella enterica,Other poultry
+46273,2016,1,Multistate,Animal Contact,Salmonella enterica,Other poultry
+46274,2016,10,Tennessee,Animal Contact,"Escherichia coli, Shiga toxin-producing; Escherichia coli, Shiga toxin-producing",Sheep or goats; Other poultry; Other (specify)
+46275,2016,11,Texas,Animal Contact,Salmonella other,Other poultry
+46276,2016,8,Minnesota,Animal Contact,Salmonella enterica,Other poultry
+46277,2016,3,Indiana,Animal Contact,Cryptosporidium unknown,Sheep or goats
+46278,2016,8,Colorado,Animal Contact,"Escherichia coli, Shiga toxin-producing",Cattle; Pig; Sheep or goats; Sheep or goats; Other poultry
+46279,2016,3,West Virginia,Animal Contact,Salmonella enterica,Other poultry
+46280,2016,4,Multistate,Animal Contact,Salmonella enterica,Other poultry
+46281,2015,3,Multistate,Animal Contact,Salmonella enterica; Salmonella enterica; Salmonella enterica,Turtle
+46282,2016,6,Ohio,Animal Contact,"Escherichia coli, Shiga toxin-producing; Campylobacter jejuni",Cattle; Other poultry
+46283,2016,9,Minnesota,Animal Contact,Salmonella enterica; Salmonella enterica,Other small mammalian household pet
+46284,2016,6,Michigan,Animal Contact,Salmonella enterica,Other poultry; Baby chick or duckling
+46285,2015,2,Multistate,Animal Contact,Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica,Turtle
+46286,2015,3,Multistate,Animal Contact,Salmonella enterica,Turtle
+46287,2017,3,Iowa,Animal Contact,Cryptosporidium,Cattle
+46288,2017,4,Utah,Animal Contact,Cryptosporidium unknown,Cattle
+46289,2017,3,Michigan,Animal Contact,Cryptosporidium unknown,Cattle
+46290,2017,2,Pennsylvania,Animal Contact,Cryptosporidium parvum,Sheep or goats; Other (specify)
+46291,2016,4,Idaho,Animal Contact,Campylobacter jejuni; Campylobacter jejuni,Dog or Puppy
+46292,2017,3,Ohio,Animal Contact,Cryptosporidium,Sheep or goats
+46293,2017,3,New Hampshire,Animal Contact,Cryptosporidium unknown,Cattle
+46294,2017,4,Massachusetts,Animal Contact,Salmonella enterica,Other poultry
+46295,2017,5,Tennessee,Animal Contact,Salmonella enterica,Baby chick or duckling
+46296,2017,3,Illinois,Animal Contact,Cryptosporidium,Sheep or goats
+46297,2017,5,New Hampshire,Animal Contact,Cryptosporidium unknown,Cattle
+46298,2017,4,West Virginia,Animal Contact,Salmonella enterica,Baby chick or duckling
+46299,2016,10,New York,Animal Contact,Salmonella enterica,Lizard
+46300,2017,7,Minnesota,Animal Contact,"Escherichia coli, Shiga toxin-producing; Escherichia coli, Shiga toxin-producing",Sheep or goats; Other (specify); Sheep or goats
+46301,2017,4,Illinois,Animal Contact,Cryptosporidium,Cattle
+46302,2017,8,Wisconsin,Animal Contact,Cryptosporidium unknown,Cattle
+46303,2017,8,Ohio,Animal Contact,Cryptosporidium parvum,Cattle
+46304,2017,8,Wisconsin,Animal Contact,Salmonella enterica,Other (specify)
+46305,2017,9,Ohio,Animal Contact,Cryptosporidium,Cattle
+46306,2017,8,Nebraska,Animal Contact,Salmonella enterica,Pig
+46307,2017,8,Nebraska,Animal Contact,Campylobacter unknown,Other poultry
+46308,2017,8,Michigan,Animal Contact,Cryptosporidium unknown,Cattle
+46309,2017,5,Utah,Animal Contact,Cryptosporidium unknown,Cattle
+46310,2017,3,Montana,Animal Contact,Salmonella enterica,Cattle
+46311,2017,6,Multistate,Animal Contact,Salmonella enterica; Salmonella enterica,Other reptile
+46312,2017,7,Pennsylvania,Animal Contact,Cryptosporidium parvum,Sheep or goats
+46313,2017,3,Nebraska,Animal Contact,"Escherichia coli, Shiga toxin-producing",Cattle
+46314,2017,5,Nebraska,Animal Contact,Cryptosporidium parvum,Cattle
+46315,2017,9,Idaho,Animal Contact,Cryptosporidium unknown,Cattle
+46316,2017,2,Multistate,Animal Contact,Salmonella enterica,Baby chick or duckling
+46317,2017,1,Multistate,Animal Contact,Salmonella enterica,Baby chick or duckling
+46318,2017,2,Multistate,Animal Contact,Salmonella enterica,Baby chick or duckling
+46319,2017,3,Multistate,Animal Contact,Salmonella enterica,Baby chick or duckling
+46320,2017,3,Multistate,Animal Contact,Salmonella enterica,Baby chick or duckling
+46321,2017,4,Multistate,Animal Contact,Salmonella enterica,Baby chick or duckling
+46322,2017,1,Multistate,Animal Contact,Salmonella enterica,Baby chick or duckling
+46323,2017,3,Multistate,Animal Contact,Salmonella enterica,Baby chick or duckling
+46324,2017,2,Multistate,Animal Contact,Salmonella enterica,Baby chick or duckling
+46325,2017,10,Massachusetts,Animal Contact,Cryptosporidium,Cattle
+46326,2017,1,New Hampshire,Animal Contact,Salmonella enterica,Turtle
+46327,2013,10,Illinois,Animal Contact,Cryptosporidium,Cattle
+46328,2017,3,Maine,Animal Contact,Cryptosporidium parvum,Cattle
+46329,2014,11,New Hampshire,Animal Contact,Cryptosporidium unknown,Cattle
+46330,2017,3,Multistate,Animal Contact,Salmonella enterica,Turtle
+46331,2017,7,Colorado,Animal Contact,"Escherichia coli, Shiga toxin-producing; Escherichia coli, Shiga toxin-producing",Pig; Other (specify); Sheep or goats
+46332,2017,11,Idaho,Animal Contact,Campylobacter unknown,Dog or Puppy
+46333,2017,2,Multistate,Animal Contact,Salmonella enterica,Baby chick or duckling
+46334,2017,11,New Hampshire,Animal Contact,Cryptosporidium unknown,Cattle
+46335,2017,8,Idaho,Animal Contact,Salmonella enterica,Cattle
+46336,2017,5,Idaho,Animal Contact,"Escherichia coli, Shiga toxin-producing",Cattle
+46337,2016,6,Multistate,Animal Contact,Campylobacter jejuni,Dog or Puppy
+46338,2017,6,Idaho,Animal Contact,Campylobacter,Baby chick or duckling
+46339,2017,5,Idaho,Animal Contact,Campylobacter,Sheep or goats
+46340,2015,7,Multistate,Animal Contact,Salmonella enterica,Other small mammalian household pet
