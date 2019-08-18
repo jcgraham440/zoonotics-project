@@ -8,7 +8,7 @@ Within that overall goal, we wanted to demonstrate the ability to extract, trans
 
 # US outbreak data:
 
-One of the primary sources of data concerning diseases in the US is the CDC website. In particular, we found a rich wealth of information on the CDC's National Outbreak Reporting System (NORS). See https://wwwn.cdc.gov/norsdashboard/. On that page is an Excel spreadsheet listing outbreak data for every state from 2009-2017. It contains a plethora of columns, including:
+One of the primary sources of data concerning diseases in the US is the CDC website. In particular, we found a wealth of information on the CDC's National Outbreak Reporting System (NORS). See https://wwwn.cdc.gov/norsdashboard/. On that page is an Excel spreadsheet listing outbreak data for every state from 2009-2017. It contains a plethora of columns, including:
 
 Year, Month, Mode (e.g. Person-to-person, Food, Animal Contact), Etiology,Serotype, Etiology Status, Setting (where the outbreak happened, e.g. a hotel or a restaurant), Hospitalizations, Deaths, Animal Type, and so on. There are a total of 21 columns, and over 46,000 rows.
 
@@ -38,7 +38,7 @@ The World Health Organization (WHO) has confirmed cases and confirmed deaths of 
 We retrieved our data from the following site: http://apps.who.int/gho/data/node.main.A1629?lang=en. We downloaded data on deaths from rabies, confirmed cases of Buruli Ulcer, and confirmed cases of Human African Trypanosomiasis (both the gambiense and the rhodensiense strains).
 
 
-The extraction phase for the global zoonotic outbreak data was downloading and then saving the CSV files to our local comuters. 
+The extraction phase for the global zoonotics outbreak data was downloading and then saving the CSV files to our local computers. 
 
 Each of the 4 global infectious disease files were transformed with Pandas using the same procedure in a Jupyter notebook:
     1. Reading the file into Pandas and setting the index to countries to transform the dataframe, i.e. switch the columns and the rows
@@ -48,7 +48,7 @@ Each of the 4 global infectious disease files were transformed with Pandas using
 Finally, the 4 clean datasets were merged together to create comprehensive global zoonotics disease outbreaks table. Further cleaning was necessary prior to loading the data into the SQL database.
 
     1. The dataframe was reshaped
-    2. The columns were remodled
+    2. The columns were remolded
     3. Select columns were renamed
 
 
@@ -61,10 +61,10 @@ To successfully load the data, we used the process of writing the tables into th
     1. The resources folder contains the CDC and the WHO infectious disease CSV files  from the extraction step
     2. The zoonotics-schema.sql is was used to create tables in SQL for the loading process
     3. The zoonotics-file.ipynb file was used to perform data transformation and SQL database loading 
-    4. There are two csv files that were used to load into SQL:
+    4.  We transformed the data and loaded it to Postgres SQL. The following two csv files is the output of the tables from Postgres:
         * global_outbreaks_table from sql.csv 
         * us_outbreaks_table from sql.csv 
-    5. The Global_Outbreaks_etl.csv and the image.png are a quality check after loading the tables to ensure that the data was loaded properly
+    5.  image.png is a quality check after loading the tables to ensure that the data was loaded properly
 
 
 
